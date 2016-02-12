@@ -1,7 +1,7 @@
 name: Zudy
 favicon: null
-layout_spectrum: 0.8096604193560779
-typography_spectrum: 0.8897393215447664
+layout_spectrum: 0.26349
+typography_spectrum: 0.56165
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#f18713'
+    - '#a29e9d'
+    - '#ffffff'
+    - '#ff0000'
+    - '#ffff00'
   brandStrength: 0.16576246940530837
   lightness: 0.11158855212852359
   saturation: 0.08505520364269614

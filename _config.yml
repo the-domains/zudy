@@ -1,0 +1,28 @@
+name: Zudy
+favicon: null
+layout_spectrum: 0.8096604193560779
+typography_spectrum: 0.8897393215447664
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.16576246940530837
+  lightness: 0.11158855212852359
+  saturation: 0.08505520364269614
+  rhythmicContrast: 0.19526801630854607
+purpose: []
